@@ -1,4 +1,4 @@
-<h3>Hi! 👋<br>I'm Karsten Assoua<br>a Designer Web Developer</h3>
+<h3>Hi! 👋<br>I'm Karsten Assoua<br>a Designer and Web Developer</h3>
 <h6>I’m interested in good novels, better tea, teaching kids, and designing beautiful, intuitive web experiences.</h6>
 
 <h4>📕 On My Shelf </h4>
