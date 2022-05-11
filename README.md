@@ -4,11 +4,10 @@
 <h4>📕 On My Shelf </h4>
 
 <!-- Lots of thanks to Steven Ajulu for the template! --> 
-- 📖 The 4 Hour Work Week by Timothy Ferriss
-- The Seven Principles of Public Speaking by Richard Zeoli
-- Long Story Short by Margot Leitman
+- 📖 The Silence of the Girls by Pat Barker
+- 📖 Ego is the Enemy by Ryan Holiday
+- Extreme Ownership: How U.S. Navy SEALs Lead and Win by Jocko Willink and Leif Babin
 - How to Train Your Mind by Chris Bailey
-- The Prynne Viper by Bianca Marais
 - The Murder on the Links by Agatha Christie
 <!-- Lots of thanks to Steven Ajulu for the template! --> 
 <!-- BLOG-POST-LIST:END -->
