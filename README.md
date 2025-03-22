@@ -1,4 +1,4 @@
-<h3>Hi! 👋<br>I'm Karsten Assoua<br>a Designer and Software Developer</h3>
+<h3>Hi! 👋<br>I'm Karsten, a designer and software developer studying @ <a href="www.brown.edu">Brown University</a></h3>
 I love building intuitive, elegant solutions for other people - both in education and software.
 
 <!-- Lots of thanks to Steven Ajulu for the template! --> 
